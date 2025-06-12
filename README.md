@@ -46,10 +46,9 @@ Con estas tecnologías doy vida a mis ideas y las tuyas:
 
 Aquí tienes mis habilidades lingüísticas:
 
-* **Castellano:** Nativo
-* **Catalán:** Nativo
-* **Inglés:** B2
-
+* **Castellano** 
+* **Catalán** 
+* **Inglés** 
 ---
 
 ### 🤝 Conectemos
@@ -76,7 +75,7 @@ Aquí tienes mis habilidades lingüísticas:
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/mpivil/mpivil/blob/main/CV_MariaPinoFS.pdf" target="_blank"> 
-    <img src="https://img.shields.io/badge/Ver%20CV%20Online-1A237E?style=for-the-badge&logo=browser&logoColor=white" alt="Ver CV Online" />
+    <img src="https://img.shields.io/badge/Ver%20CV%20Online-006064?style=for-the-badge&logo=browser&logoColor=white" alt="Ver CV Online" />
   </a>
 </p>
 

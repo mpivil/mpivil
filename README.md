@@ -15,7 +15,7 @@
 Soy **Desarrolladora Full Stack y Scrum Master** con una visión clara: la tecnología debe construir **puentes**. Mi experiencia abarca desde el diseño y desarrollo de aplicaciones web robustas hasta la optimización de equipos y flujos de trabajo ágiles. Me apasiona sumergirme en proyectos que generan un **impacto real y positivo** en la sociedad.
 
 - 🎯 Lidero y desarrollo el MVP de [**CamperNature**](https://github.com/reposocratech/MVPCamperNature.git), ¡una aventura en el turismo consciente!
-- 👗 Creé **Fashion Web**, un e-commerce responsivo que fusiona la moda con la tecnología, explorando estilos visuales modernos.
+- 👗 Creé **Fashion Web**, un sitio web de moda que fusiona el diseño con la tecnología, explorando estilos visuales modernos.
 - 📚 En constante aprendizaje, siempre explorando nuevas tecnologías y metodologías de gestión de producto para estar a la vanguardia.
 - 🤝 Mi experiencia previa en salud mental me ha dotado de una **empatía y una mirada sistémica** únicas, que aplico en cada desafío.
 
@@ -40,14 +40,12 @@ Con estas tecnologías doy vida a mis ideas y las tuyas:
 > `React` · `Node.js` · `Express` · `MySQL` · `Scrum` · `UX/UI` · `MVP real`
 
 #### 👗 [**Fashion Web**](https://github.com/mpivil/fashion-web-project)
-> Un sitio web de moda con un diseño responsivo y elegante, que incluye funcionalidades de carrito de compras y una experiencia de usuario fluida.
-> `HTML` · `CSS` · `JavaScript` · `React` · `UX/UI` · `E-commerce`
+> Sitio web de moda con un **diseño responsivo y elegante**, enfocado en la **visualización de colecciones y estilos**. Incluye una interfaz de usuario fluida para explorar tendencias.
+> `HTML` · `CSS` · `JavaScript` · `React` · `UX/UI`
 
 ---
 
-### 📮 Hablemos (Contacto)
-
-¿Tienes una idea, un proyecto o simplemente quieres saludar? ¡Conectemos!
+### 📮 Conecta Conmigo
 
 <p align="center">
   <a href="mailto:mariapivi@pm.me" target="_blank">

@@ -39,7 +39,7 @@ Con estas tecnologías doy vida a mis ideas y las tuyas:
 > Una plataforma innovadora para reservas de parcelas y servicios turísticos, enfocada en el turismo consciente.
 > `React` · `Node.js` · `Express` · `MySQL` · `Scrum` · `UX/UI` · `MVP real`
 
-#### 👗 [**Fashion Web**](https://github.com/mpivil/fashion-web-project)
+#### 👗 [**Fashion Web**](https://github.com/mpivil/fashion_web.git)
 > Sitio web de moda con un **diseño responsivo y elegante**, enfocado en la **visualización de colecciones y estilos**. Incluye una interfaz de usuario fluida para explorar tendencias.
 > `HTML` · `CSS` · `JavaScript` · `React` · `UX/UI`
 
@@ -51,9 +51,15 @@ Con estas tecnologías doy vida a mis ideas y las tuyas:
   <a href="mailto:mariapivi@pm.me" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <br/>
+  <span style="font-size: 0.9em; color: #888;">mariapivi@pm.me</span>
+</p>
+<p align="center">
   <a href="https://www.linkedin.com/in/maria-pino-villar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+</p>
+<p align="center">
   <a href="./CV_MariaPinoFS.pdf" download>
     <img src="https://img.shields.io/badge/CV%20FullStack-FFD700?style=for-the-badge&logo=file-pdf&logoColor=white" alt="Download CV FullStack" />
   </a>

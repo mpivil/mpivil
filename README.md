@@ -44,7 +44,6 @@ Con estas tecnologías doy vida a mis ideas y las tuyas:
 > `HTML` · `CSS` · `JavaScript` · `React` · `UX/UI`
 
 ---
----
 
 ### 🗣️ Idiomas
 

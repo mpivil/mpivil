@@ -1,110 +1,90 @@
-<h1 align="center">Hola, soy María Pino Villar 👋</h1>
+<h1 align="center">
+  ✨ ¡Hola! Soy <span style="color: #36BCF7">María Pino</span> ✨
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Scrum+Master+%26+Product+Owner;Tecnolog%C3%ADa+con+prop%C3%B3sito+%F0%9F%8C%8D;Creando+experiencias+digitales+%C3%BAnicas" alt="Typing animation" /></h1>
 <p align="center">
-  Soy una <strong>Full Stack Developer y Scrum Master</strong>, apasionada por construir puentes entre la tecnología y las personas.
+  <em>"Transformando ideas en soluciones digitales con impacto, siempre con las personas en el centro."</em> 🌟
 </p>
 
 ---
 
-### 🚀 Sobre Mí
+### 🙋‍♀️ ¿Quién soy?
 
-Desarrolladora con certificaciones en **Professional Scrum Master, Product Owner y Project Manager**. Me especializo en liderar equipos ágiles, facilitando procesos eficientes, estructurados y orientados al valor del producto. Actualmente profundizo en desarrollo para mejorar mis tareas como Scrum Master. Con experiencia en contextos exigentes, aporto habilidades en organización, gestión de tareas, comunicación efectiva y trabajo en equipo. Comprometida con la mejora continua, la transparencia y la colaboración en entornos dinámicos. Mi visión es usar la tecnología para generar un impacto real y positivo en la sociedad.
+Soy **Desarrolladora Full Stack y Scrum Master** con una visión clara: la tecnología debe construir **puentes**. Mi experiencia abarca desde el diseño y desarrollo de aplicaciones web robustas hasta la optimización de equipos y flujos de trabajo ágiles. Me apasiona sumergirme en proyectos que generan un **impacto real y positivo** en la sociedad.
+
+* 🎯 Lidero y desarrollo el MVP de [**CamperNature**](https://github.com/reposocratech/MVPCamperNature.git), ¡una aventura en el turismo consciente!
+* 👗 Creé **Fashion Web**, un sitio web de moda que fusiona el diseño con la tecnología, explorando estilos visuales modernos.
+* 📚 En constante aprendizaje, siempre explorando nuevas tecnologías y metodologías de gestión de producto para estar a la vanguardia.
+* 🤝 Mi experiencia previa en salud mental me ha dotado de una **empatía y una mirada sistémica** únicas, que aplico en cada desafío.
 
 ---
 
-### 💻 Habilidades Técnicas
+### 💻 Mi Caja de Herramientas (Tech Stack)
 
+Con estas tecnologías doy vida a mis ideas y las tuyas:
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/CSS_Grid-darkgreen?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Grid"/>
-  <img src="https://img.shields.io/badge/Flexbox-darkgreen?style=for-the-badge&logo=css3&logoColor=white" alt="Flexbox"/>
-  <br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <br>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
-  <img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=powershell&logoColor=white" alt="Terminal"/>
-  <img src="https://img.shields.io/badge/Agile-007ACC?style=for-the-badge&logo=jira&logoColor=white" alt="Agile"/>
-  <img src="https://img.shields.io/badge/Scrum-F8F9FA?style=for-the-badge&logo=scrumalliance&logoColor=black" alt="Scrum"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mysql,git,github,vscode,figma,trello,sass,bootstrap,terminal,agile,scrum&perline=8" alt="Tech Stack Icons" />
   </p>
 
 ---
 
-### 💡 Proyectos Destacados
+### 🌟 Proyectos Destacados
 
-#### **CamperNature**
-<p>
-  Desarrollo de una aplicación web completa para la gestión de usuarios y reservas de campings. Incluye autenticación, pasarela de pagos y está conectada a una base de datos (MySQL). Trabajé y colaboré con el cliente desde el diseño hasta la organización del proyecto para un MVP funcional.
-  <br>
-  <strong>Tecnologías:</strong> HTML, CSS, JavaScript, React, Node.js, Express, MySQL.
-  <br>
-  <strong>Repositorio:</strong> <a href="https://github.com/reposocratech/MVPCamperNature.git" target="_blank">MVPCamperNature</a>
-</p>
+¡Échale un vistazo a algunas de mis creaciones!
 
-#### **Fashion Web**
-<p>
-  Creación de una aplicación web de tienda de moda con gestión de productos y usuarios.
-  <br>
-  <strong>Tecnologías:</strong> HTML, CSS, JavaScript, React.
-  <br>
-  <strong>Repositorio:</strong> <a href="https://github.com/mpivil/fashion-web" target="_blank">Fashion Web</a>
-</p>
+#### 🏕️ [**CamperNature**](https://github.com/reposocratech/MVPCamperNature.git)
+> Una plataforma innovadora para reservas de parcelas y servicios turísticos, enfocada en el turismo consciente.
+> `React` · `Node.js` · `Express` · `MySQL` · `Scrum` · `UX/UI` · `MVP real`
+
+#### 👗 [**Fashion Web**](https://github.com/mpivil/fashion_web.git)
+> Sitio web de moda con un **diseño responsivo y elegante**, enfocado en la **visualización de colecciones y estilos**. Incluye una interfaz de usuario fluida para explorar tendencias.
+> `HTML` · `CSS` · `JavaScript` · `React` · `UX/UI`
 
 ---
 
 ### 🗣️ Idiomas
 
-* **Castellano:** Nativo
-* **Catalán:** Nativo
-* **Inglés:** B2
+Aquí tienes mis habilidades lingüísticas:
+
+* **Castellano** 
+* **Catalán** 
+* **Inglés** 
 
 ---
 
-### 📬 Contacto
+### 🤝 Conectemos
 
 <p align="center">
-  <a href="mailto:mariapivi@pm.me">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:mariapivi@pm.me" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email Icon" width="30"/>
   </a>
-  <a href="https://linkedin.com/in/maria-pino-villar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="mailto:mariapivi@pm.me" style="text-decoration: none; color: inherit;"> mariapivi@pm.me</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/maria-pino-villar/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Icon" width="30"/>
   </a>
-  <a href="https://github.com/mpivil" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://www.linkedin.com/in/maria-pino-villar/" style="text-decoration: none; color: inherit;"> LinkedIn</a>
+</p>
+
+---
+
+### 📄 Descargar mi CV
+
+<p align="center">
+  <a href="https://github.com/mpivil/mpivil/raw/main/CV_MariaPinoFS.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Descargar%20CV-343a40?style=for-the-badge&logo=file-pdf&logoColor=white" alt="Descargar CV" />
   </a>
 </p>
 
 ---
 
-### ⬇️ Descarga mi CV
+### 📊 Mis Números en GitHub
 
+Echa un vistazo a mi actividad y contribuciones:
 <p align="center">
-  <a href="https://github.com/mpivil/mpivil/raw/main/CV_MariaPinoS.pdf" target="_blank">
-    <img alt="Descargar CV" src="https://img.shields.io/badge/Descargar%20CV-PDF-red?style=for-the-badge&logo=googledrive" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=mpivil&show_icons=true&theme=swift&hide_title=true&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mpivil&theme=swift&hide_border=true" width="48%" alt="GitHub Streak Stats" />
 </p>
-
----
-
-### 📊 Mis Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mpivil&show_icons=true&locale=es&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mpivil&theme=radical" alt="GitHub Streak"/>
-</p>
-
----
 
 ---
 

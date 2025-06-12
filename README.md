@@ -51,16 +51,16 @@ Con estas tecnologías doy vida a mis ideas y las tuyas:
 
 <p align="center">
   <a href="mailto:mariapivi@pm.me" target="_blank">
-    <img src="https://img.shields.io/badge/📬%20Email-mariapivi@pm.me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/maria-pino-villar/" target="_blank">
-    <img src="https://img.shields.io/badge/💼%20LinkedIn-María%20Pino-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="./CV_MariaPinoFS.pdf" download>
-    <img src="https://img.shields.io/badge/📄%20CV%20FullStack-Descargar-FFD700?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV FullStack Badge" />
+    <img src="https://img.shields.io/badge/CV%20FullStack-FFD700?style=for-the-badge&logo=file-pdf&logoColor=white" alt="Download CV FullStack" />
   </a>
   <a href="./CV_MariaPinoS.pdf" download>
-    <img src="https://img.shields.io/badge/📄%20CV%20Scrum-Descargar-00C49A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV Scrum Badge" />
+    <img src="https://img.shields.io/badge/CV%20Scrum-00C49A?style=for-the-badge&logo=file-pdf&logoColor=white" alt="Download CV Scrum" />
   </a>
 </p>
 

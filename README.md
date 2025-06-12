@@ -46,9 +46,9 @@ Con estas tecnologías doy vida a mis ideas y las tuyas:
 
 Aquí tienes mis habilidades lingüísticas:
 
-* **Castellano** 
-* **Catalán** 
-* **Inglés** 
+* **Castellano:** Nativo
+* **Catalán:** Nativo
+* **Inglés:** B2
 
 ---
 

@@ -47,13 +47,10 @@ Con estas tecnologías doy vida a mis ideas y las tuyas:
 
 ### 🗣️ Idiomas
 
-<p align="center">
-  <img src="https://flagicons.lipis.dev/flags/4x3/es.svg" alt="Español" width="30"/> Castellano: **Nativo**
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://flagicons.lipis.dev/flags/4x3/gb-eng.svg" alt="Inglés" width="30"/> Inglés: **B2**
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://flagicons.lipis.dev/flags/4x3/cat.svg" alt="Catalán" width="30"/> Catalán: **Nativo**
-</p>
+* **Castellano** 
+* **Catalán** 
+* **Inglés** 
+  
 ---
 
 ### 📮 Conecta Conmigo

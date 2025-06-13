@@ -1,7 +1,6 @@
-<h1 align="center">
-  ✨ ¡Hola! Soy <span style="color: #36BCF7">María Pino</span> ✨
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Scrum+Master+%26+Product+Owner;Tecnolog%C3%ADa+con+prop%C3%B3sito+%F0%9F%8C%8D;Creando+experiencias+digitales+%C3%BAnicas" alt="Typing animation" /></h1>
+<p align="center">
+  <img src="./tip_Maria.png" alt="Hola soy María Pino" width="700px" />
+</p>
 <p align="center">
   <em>"Transformando ideas en soluciones digitales con impacto, siempre con las personas en el centro."</em> 🌟
 </p>
@@ -46,9 +45,9 @@ Con estas tecnologías doy vida a mis ideas y las tuyas:
 
 Aquí tienes mis habilidades lingüísticas:
 
-* **Castellano** 
-* **Catalán** 
-* **Inglés** 
+* **Castellano** (nativo)
+* **Catalán** (fluido) 
+* **Inglés** (profesional)
 ---
 
 ### 🤝 Conectemos

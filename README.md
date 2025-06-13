@@ -2,7 +2,7 @@
   <img src="./tip_Maria.png" alt="Hola soy María Pino" width="700px" />
 </p>
 <p align="center">
-  <em>"Transformando ideas en soluciones digitales con impacto, siempre con las personas en el centro."</em> 🌟
+  <em>"Transformando ideas en soluciones digitales con impacto, siempre con las personas en el centro."</em> 
 </p>
 
 ---

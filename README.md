@@ -11,7 +11,7 @@
 
 Soy **Desarrolladora Full Stack y Scrum Master** con una visión clara: la tecnología debe construir **puentes**. Mi experiencia abarca desde el diseño y desarrollo de aplicaciones web robustas hasta la optimización de equipos y flujos de trabajo ágiles. Me apasiona sumergirme en proyectos que generan un **impacto real y positivo** en la sociedad.
 
-* 🎯 Lidero y desarrollo el MVP de [**CamperNature**](https://github.com/reposocratech/MVPCamperNature.git), ¡una aventura en el turismo consciente!
+* 🎯 Lidero y desarrollo el MVP de [**CamperNature**](https://github.com/mpivil/MVPCamperNature.git), ¡una aventura en el turismo consciente!
 * 👗 Creé **Fashion Web**, un sitio web de moda que fusiona el diseño con la tecnología, explorando estilos visuales modernos.
 * 📚 En constante aprendizaje, siempre explorando nuevas tecnologías y metodologías de gestión de producto para estar a la vanguardia.
 * 🤝 Mi experiencia previa en salud mental me ha dotado de una **empatía y una mirada sistémica** únicas, que aplico en cada desafío.

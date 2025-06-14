@@ -31,7 +31,7 @@ Con estas tecnologías doy vida a mis ideas y las tuyas:
 
 ¡Échale un vistazo a algunas de mis creaciones!
 
-#### 🏕️ [**CamperNature**]([https://github.com/reposocratech/MVPCamperNature.git](https://github.com/mpivil/MVPCamperNature.git))
+#### 🏕️ [**CamperNature**](https://github.com/mpivil/MVPCamperNature.git)
 > Una plataforma innovadora para reservas de parcelas y servicios turísticos, enfocada en el turismo consciente.
 > `React` · `Node.js` · `Express` · `MySQL` · `Scrum` · `UX/UI` · `MVP real`
 
